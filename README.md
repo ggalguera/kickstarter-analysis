@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends.
 ## Overview of Project
 Visualization of data charts to show campaign outcomes based on their launch dates and their funding goals.
 ### Purpose
-Using Excel data analysis tools detect trends visualizing campaign outcomes based on their launch dates and their funding goals and deliver conclusions about the data
+Using Excel data analysis tools detect trends visualizing campaign outcomes based on their launch dates, campaign outcome based their funding goals and deliver conclusions about the data trend.
 Create two charts to visualize trends on successful theater kickstarter over time and outcome goal percentage grouped by funding goal.
 
 ## Analysis and Challenges
