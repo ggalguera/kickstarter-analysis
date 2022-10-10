@@ -9,7 +9,7 @@ Create two charts to visualize trends on successful theater kickstarter over tim
 ## Analysis and Challenges
 Presentation of the analysis and some chellenges faced during the excersice
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date](https://github.com/ggalguera/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch_small.png)
+![Outcomes Based on Launch Date](https://github.com/ggalguera/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](https://github.com/ggalguera/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
