@@ -29,6 +29,3 @@ There are some outliers on the data that need to be removed. For certain categor
 For Outcomes Based on Goals we can use Stacked Column as the total is always 100% and shows all three values on the same bar.
 For the Theater Outcomes Based on Launch Date Clustered Column is a way to see the data to compare every single month results and Stacked Column can be used to show totals visually without including an extra Serie.
 
-
-Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
-
