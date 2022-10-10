@@ -7,7 +7,7 @@ Using Excel data analysis tools detect trends visualizing campaign outcomes base
 Create two charts to visualize trends on successful theater kickstarter over time and outcome goal percentage grouped by funding goal.
 
 ## Analysis and Challenges
-Presentation of the analysis and some chellenges faced during the excersice.
+Presentation of the analysis and some chellenges faced during the exercise.
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date](https://github.com/ggalguera/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
